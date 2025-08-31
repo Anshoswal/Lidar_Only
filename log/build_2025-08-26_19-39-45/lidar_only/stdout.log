@@ -1,0 +1,37 @@
+running egg_info
+creating ../../build/lidar_only/lidar_only.egg-info
+writing ../../build/lidar_only/lidar_only.egg-info/PKG-INFO
+writing dependency_links to ../../build/lidar_only/lidar_only.egg-info/dependency_links.txt
+writing entry points to ../../build/lidar_only/lidar_only.egg-info/entry_points.txt
+writing requirements to ../../build/lidar_only/lidar_only.egg-info/requires.txt
+writing top-level names to ../../build/lidar_only/lidar_only.egg-info/top_level.txt
+writing manifest file '../../build/lidar_only/lidar_only.egg-info/SOURCES.txt'
+reading manifest file '../../build/lidar_only/lidar_only.egg-info/SOURCES.txt'
+writing manifest file '../../build/lidar_only/lidar_only.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build
+creating /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib
+creating /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only
+copying lidar_only/lidar_only.py -> /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only
+copying lidar_only/__init__.py -> /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only
+running install
+running install_lib
+creating /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only
+copying /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only/lidar_only.py -> /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only
+copying /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only/__init__.py -> /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only
+byte-compiling /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only/lidar_only.py to lidar_only.cpython-310.pyc
+byte-compiling /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/ansh/Desktop/lidar_only_ws/install/lidar_only/share
+creating /home/ansh/Desktop/lidar_only_ws/install/lidar_only/share/ament_index
+creating /home/ansh/Desktop/lidar_only_ws/install/lidar_only/share/ament_index/resource_index
+creating /home/ansh/Desktop/lidar_only_ws/install/lidar_only/share/ament_index/resource_index/packages
+copying resource/lidar_only -> /home/ansh/Desktop/lidar_only_ws/install/lidar_only/share/ament_index/resource_index/packages
+creating /home/ansh/Desktop/lidar_only_ws/install/lidar_only/share/lidar_only
+copying package.xml -> /home/ansh/Desktop/lidar_only_ws/install/lidar_only/share/lidar_only
+running install_egg_info
+Copying ../../build/lidar_only/lidar_only.egg-info to /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only-0.0.0-py3.10.egg-info
+running install_scripts
+Installing cones_detector script to /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/lidar_only
+writing list of installed files to '/home/ansh/Desktop/lidar_only_ws/build/lidar_only/install.log'

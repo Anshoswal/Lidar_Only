@@ -1,0 +1,24 @@
+[0.367s] Invoking command in '/home/ansh/Desktop/lidar_only_ws/src/lidar_only': PYTHONPATH=/home/ansh/Desktop/lidar_only_ws/build/lidar_only/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lidar_only build --build-base /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build install --record /home/ansh/Desktop/lidar_only_ws/build/lidar_only/install.log --single-version-externally-managed install_data
+[0.510s] running egg_info
+[0.510s] writing ../../build/lidar_only/lidar_only.egg-info/PKG-INFO
+[0.510s] writing dependency_links to ../../build/lidar_only/lidar_only.egg-info/dependency_links.txt
+[0.510s] writing entry points to ../../build/lidar_only/lidar_only.egg-info/entry_points.txt
+[0.510s] writing requirements to ../../build/lidar_only/lidar_only.egg-info/requires.txt
+[0.510s] writing top-level names to ../../build/lidar_only/lidar_only.egg-info/top_level.txt
+[0.512s] reading manifest file '../../build/lidar_only/lidar_only.egg-info/SOURCES.txt'
+[0.513s] writing manifest file '../../build/lidar_only/lidar_only.egg-info/SOURCES.txt'
+[0.513s] running build
+[0.513s] running build_py
+[0.513s] copying lidar_only/cones_detector.py -> /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only
+[0.513s] running install
+[0.514s] running install_lib
+[0.514s] copying /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only/cones_detector.py -> /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only
+[0.515s] byte-compiling /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only/cones_detector.py to cones_detector.cpython-310.pyc
+[0.516s] running install_data
+[0.516s] running install_egg_info
+[0.517s] removing '/home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only-0.0.0-py3.10.egg-info' (and everything under it)
+[0.517s] Copying ../../build/lidar_only/lidar_only.egg-info to /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only-0.0.0-py3.10.egg-info
+[0.518s] running install_scripts
+[0.531s] Installing cones_detector script to /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/lidar_only
+[0.531s] writing list of installed files to '/home/ansh/Desktop/lidar_only_ws/build/lidar_only/install.log'
+[0.547s] Invoked command in '/home/ansh/Desktop/lidar_only_ws/src/lidar_only' returned '0': PYTHONPATH=/home/ansh/Desktop/lidar_only_ws/build/lidar_only/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/lidar_only build --build-base /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build install --record /home/ansh/Desktop/lidar_only_ws/build/lidar_only/install.log --single-version-externally-managed install_data

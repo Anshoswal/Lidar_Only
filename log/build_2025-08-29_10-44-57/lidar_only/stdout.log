@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/lidar_only/lidar_only.egg-info/PKG-INFO
+writing dependency_links to ../../build/lidar_only/lidar_only.egg-info/dependency_links.txt
+writing entry points to ../../build/lidar_only/lidar_only.egg-info/entry_points.txt
+writing requirements to ../../build/lidar_only/lidar_only.egg-info/requires.txt
+writing top-level names to ../../build/lidar_only/lidar_only.egg-info/top_level.txt
+reading manifest file '../../build/lidar_only/lidar_only.egg-info/SOURCES.txt'
+writing manifest file '../../build/lidar_only/lidar_only.egg-info/SOURCES.txt'
+running build
+running build_py
+copying lidar_only/cone_new.py -> /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only
+copying lidar_only/cones_detector.py -> /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only
+running install
+running install_lib
+copying /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only/cone_new.py -> /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only
+copying /home/ansh/Desktop/lidar_only_ws/build/lidar_only/build/lib/lidar_only/cones_detector.py -> /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only
+byte-compiling /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only/cone_new.py to cone_new.cpython-310.pyc
+byte-compiling /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only/cones_detector.py to cones_detector.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/lidar_only/lidar_only.egg-info to /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/python3.10/site-packages/lidar_only-0.0.0-py3.10.egg-info
+running install_scripts
+Installing cone_new script to /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/lidar_only
+Installing cones_detector script to /home/ansh/Desktop/lidar_only_ws/install/lidar_only/lib/lidar_only
+writing list of installed files to '/home/ansh/Desktop/lidar_only_ws/build/lidar_only/install.log'
