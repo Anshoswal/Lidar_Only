@@ -3,26 +3,24 @@
 <package format="3">
   <name>lidar_only</name>
   <version>0.0.0</version>
-  <description>TODO: Package description</description>
+  <description>A ROS 2 node for real-time cone classification using a neural network.</description>
   <maintainer email="anshoswal0006@gmail.com">ansh</maintainer>
-  <license>TODO: License declaration</license>
+  <license>Apache-2.0</license>
 
-  <depend>rclpy</depend>
+  <buildtool_depend>ament_python</buildtool_depend>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>visualization_msgs</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
   <test_depend>ament_pep257</test_depend>
   <test_depend>python3-pytest</test_depend>
-  <depend>geometry_msgs</depend>
-  <depend>sensor_msgs</depend>
-  <depend>visualization_msgs</depend>
-  <depend>std_msgs</depend>
-  <exec_depend>scikit-learn</exec_depend>
-  <exec_depend>scipy</exec_depend>
-
 
   <export>
     <build_type>ament_python</build_type>
   </export>
 </package>
-
